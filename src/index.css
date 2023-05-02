@@ -5,9 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.bg-gray {
+  background-color: rgb(106, 96, 96);
+}
+
+.bg-purple {
+  background-color: rgb(65, 10, 113);
 }
